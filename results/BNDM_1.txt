@@ -1,0 +1,3 @@
+pattern: T 
+Found: 67100823
+Time: 2.558465 s

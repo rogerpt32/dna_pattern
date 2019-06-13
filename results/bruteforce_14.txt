@@ -1,0 +1,3 @@
+pattern: AACCTTGCCGAGAA 
+Found: 1
+Time: 1.397677 s

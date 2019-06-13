@@ -1,0 +1,3 @@
+pattern: CGGCCGGGTCACAGACACT 
+Found: 0
+Time: 0.939537 s

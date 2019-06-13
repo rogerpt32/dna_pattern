@@ -1,0 +1,3 @@
+pattern: GGGCCCAAAGG 
+Found: 72
+Time: 1.223108 s

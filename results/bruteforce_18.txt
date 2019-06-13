@@ -1,0 +1,3 @@
+pattern: TATTTCTCCCCTAAACCT 
+Found: 0
+Time: 1.496385 s

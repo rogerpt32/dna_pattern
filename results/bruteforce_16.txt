@@ -1,0 +1,3 @@
+pattern: AATCTTAATGGTCACC 
+Found: 0
+Time: 1.497268 s

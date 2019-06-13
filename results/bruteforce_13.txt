@@ -1,0 +1,3 @@
+pattern: TGGCAAGCCCATA 
+Found: 6
+Time: 1.078089 s

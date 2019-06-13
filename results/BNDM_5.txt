@@ -1,0 +1,3 @@
+pattern: CTTTT 
+Found: 262091
+Time: 1.205953 s

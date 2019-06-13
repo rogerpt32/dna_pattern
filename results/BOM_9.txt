@@ -1,0 +1,3 @@
+pattern: ATGAAGCCA 
+Found: 1088
+Time: 1.628344 s

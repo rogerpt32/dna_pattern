@@ -1,0 +1,3 @@
+pattern: CTAGGTG 
+Found: 16189
+Time: 1.198823 s

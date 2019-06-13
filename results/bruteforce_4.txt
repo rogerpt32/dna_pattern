@@ -1,0 +1,3 @@
+pattern: ACTC 
+Found: 1048595
+Time: 1.236638 s
