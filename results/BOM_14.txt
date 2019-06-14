@@ -1,3 +1,3 @@
-pattern: AACCTTGCCGAGAA 
-Found: 1
-Time: 1.220678 s
+pattern: TTGGGACGTGCCTA 
+Found: 7
+Time: 8.964006 s

@@ -1,3 +1,3 @@
-pattern: CTTTT 
-Found: 262091
-Time: 0.927429 s
+pattern: TATTA 
+Found: 1954109
+Time: 6.198102 s

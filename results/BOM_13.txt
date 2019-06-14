@@ -1,3 +1,3 @@
-pattern: TGGCAAGCCCATA 
-Found: 6
-Time: 0.948011 s
+pattern: GGGCGGGCATTAG 
+Found: 29
+Time: 6.089449 s

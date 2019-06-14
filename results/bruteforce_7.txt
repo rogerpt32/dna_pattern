@@ -1,3 +1,3 @@
-pattern: CTAGGTG 
-Found: 16189
-Time: 1.198823 s
+pattern: CCCCAAA 
+Found: 122185
+Time: 6.517353 s

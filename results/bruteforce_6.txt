@@ -1,3 +1,3 @@
-pattern: CTGGTC 
-Found: 65210
-Time: 1.200466 s
+pattern: TACCAG 
+Found: 488329
+Time: 6.856761 s

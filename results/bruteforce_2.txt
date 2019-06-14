@@ -1,3 +1,3 @@
-pattern: TT 
-Found: 16772254
-Time: 1.073490 s
+pattern: CG 
+Found: 125004454
+Time: 7.209874 s

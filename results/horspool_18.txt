@@ -1,3 +1,3 @@
-pattern: TATTTCTCCCCTAAACCT 
+pattern: AAGCATGGACTTGTCATA 
 Found: 0
-Time: 0.487342 s
+Time: 6.695739 s

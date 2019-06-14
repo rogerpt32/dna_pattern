@@ -1,3 +1,3 @@
-pattern: T 
-Found: 67100823
-Time: 3.711285 s
+pattern: C 
+Found: 499986806
+Time: 19.148113 s

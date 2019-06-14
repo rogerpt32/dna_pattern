@@ -1,3 +1,3 @@
-pattern: CCTTGGATTT 
-Found: 246
-Time: 0.641870 s
+pattern: TTTTTAGCAG 
+Found: 1874
+Time: 6.217642 s
